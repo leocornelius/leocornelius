@@ -6,3 +6,5 @@
 ---
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=avrio-project&repo=avrio-rs&theme=synthwave)](https://github.com/avrio-project/avrio-rs)
+
+---
